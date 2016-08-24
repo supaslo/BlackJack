@@ -1,0 +1,15 @@
+Classes:
+Player's Hand
+	Card
+	Card
+Dealer's Hand
+	Card
+	Card
+Card
+	Suit,Value,Index
+Deck
+	Shuffle
+Player
+Dealer
+	Deal
+	Compare
